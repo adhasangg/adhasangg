@@ -19,4 +19,4 @@ I am a **WordPress Theme Developer** and **Frontend Developer** dedicated to bui
 ---
 *"Building fast, secure, and SEO-optimized digital experiences from the infrastructure up."*
 
-![Fuad's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adhasangg&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
+![Fuad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhasangg&theme=radical)
